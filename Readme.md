@@ -10,12 +10,12 @@ A reducer that replaces the accumulator with the next value
 
 ## Installation
 
-    $ npm install @micro-js/reduce-replace
+    $ npm install @f/reduce-replace
 
 ## Usage
 
 ```js
-var reduceReplace = require('@micro-js/reduce-replace')
+var reduceReplace = require('@f/reduce-replace')
 
 const todoReducer = combineReducers({
   text: handleActions({
@@ -42,5 +42,5 @@ MIT
 [git-url]: https://github.com/micro-js/reduce-replace
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/reduce-replace.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/reduce-replace
+[npm-image]: https://img.shields.io/npm/v/@f/reduce-replace.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/reduce-replace
